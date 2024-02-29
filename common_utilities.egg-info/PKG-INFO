@@ -2,7 +2,7 @@ Metadata-Version: 1.0
 Name: common-utilities
 Version: 0.0.1
 Summary: My private package from private github repo
-Home-page: git@github.com:ananyamathur26/common_utilities.git
+Home-page: https://github.com/ananyamathur26/common_utilities.git
 Author: Ananya Mathur
 Author-email: ananyamathur26@gmail.com
 License: unlicense
