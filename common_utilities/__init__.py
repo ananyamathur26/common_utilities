@@ -1,4 +1,4 @@
 def my_function():
-    print("common method")
+    print("common method v1")
 
 
